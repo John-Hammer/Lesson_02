@@ -2,6 +2,9 @@
 
 Hello class this lesson will focus on Cascading Style Sheets(CSS). This is known as a style sheet language that most commonly used with HTML (Hyper Text Markup Language). This allows a designer to customize the look and feel of a website.<br /> 
 
+    -On the github repo website hit the Code Button and copy the https link provided.
+    -In github desktop select the downarrow on current repository (top left) > add > clone repository > select URL and past in the https link. > Choose... > Lesson 2 in your Documents folder
+
 HTML is divided into diffent tags \<div>\</div>, \<section>\</section>, \<span>\</span> etc etc, and a lot of these tags do not do anything in themselves (a lot of them do do stuff, but we'll get to learn about that in time), but they do let you target your CSS to it. You can further target specific tags by adding "class" or "id" \<div class="hello">\</div>, \<span id="world">\</span>, \<section class="hello" id="world">\</section>. See the internalexample.html<br /> 
 
 Now your CSS can be get rather long and complicated and in order to keep your html clean it is standard practise to keep your css in an external file (see css/style.css)
