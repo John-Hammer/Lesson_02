@@ -15,4 +15,5 @@ p.green, p .green { /* and class of green with a paragraph or I have something w
 #pink {
     color: pink;
     font-size: 300%;
+    padding-left: 10%;
 }
